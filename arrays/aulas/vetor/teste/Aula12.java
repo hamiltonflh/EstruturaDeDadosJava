@@ -1,4 +1,4 @@
-package ArraysAulas.vetor.teste;
+package arrays.aulas.vetor.teste;
 
 import java.util.ArrayList;
 

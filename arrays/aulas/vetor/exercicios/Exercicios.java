@@ -1,5 +1,5 @@
-package ArraysAulas.vetor.exercicios;
-import ArraysAulas.vetor.Vetor;
+package arrays.aulas.vetor.exercicios;
+import arrays.aulas.vetor.Vetor;
 
 public class Exercicios {
     public static void main(String[] args){

@@ -1,5 +1,7 @@
 package stacks.aulas;
 
+import base.estruturaestatica.EstruturaEstatica;
+
 public class Pilha<T> extends EstruturaEstatica<T> {
 
     public Pilha(){

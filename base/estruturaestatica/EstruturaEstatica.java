@@ -1,4 +1,4 @@
-package stacks.aulas;
+package base.estruturaestatica;
 
 public class EstruturaEstatica<T> {
     protected T[] elementos;

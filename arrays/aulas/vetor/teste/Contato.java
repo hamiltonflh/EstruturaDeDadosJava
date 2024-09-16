@@ -1,4 +1,4 @@
-package ArraysAulas.vetor.teste;
+package arrays.aulas.vetor.teste;
 
 public class Contato {
 

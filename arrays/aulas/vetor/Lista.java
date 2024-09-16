@@ -1,6 +1,6 @@
-package ArraysAulas.vetor;
+package arrays.aulas.vetor;
 
-import stacks.aulas.EstruturaEstatica;
+import base.estruturaestatica.EstruturaEstatica;
 
 public class Lista<T> extends EstruturaEstatica<T> {
 
