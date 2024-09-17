@@ -1,0 +1,1 @@
+Meu repositório de estudos de Estruturas de Dados. Aqui arquivo todos os exercícios e as classes de Estrutura de Dados que é como se fosse uma cópia das existentes das bibliotecas Javas. Esse é o curso da Loiane Gronner.
