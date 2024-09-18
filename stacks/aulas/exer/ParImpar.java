@@ -1,4 +1,4 @@
-package arrays.aulas.vetor.exercicios;
+package stacks.aulas.exer;
 
 import stacks.aulas.Pilha;
 
