@@ -1,6 +1,6 @@
 package arrays.aulas.vetor.exercicios;
-import arrays.aulas.vetor.Vetor;
-import arrays.aulas.vetor.teste.Contato;
+import arrays.aulas.vetor.estruturas.Vetor;
+
 import java.util.Scanner;
 import java.lang.Thread;
 

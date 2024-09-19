@@ -1,4 +1,4 @@
-package stacks.aulas;
+package stacks.aulas.estruturas;
 
 import base.estruturaestatica.EstruturaEstatica;
 

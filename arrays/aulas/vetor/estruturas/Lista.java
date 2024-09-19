@@ -1,4 +1,4 @@
-package arrays.aulas.vetor;
+package arrays.aulas.vetor.estruturas;
 
 import base.estruturaestatica.EstruturaEstatica;
 

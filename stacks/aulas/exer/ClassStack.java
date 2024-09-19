@@ -1,4 +1,4 @@
-package stacks.aulas.teste;
+package stacks.aulas.exer;
 
 import java.util.Stack;
 

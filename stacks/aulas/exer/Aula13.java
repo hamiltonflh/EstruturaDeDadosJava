@@ -1,5 +1,5 @@
-package stacks.aulas.teste;
-import stacks.aulas.*;
+package stacks.aulas.exer;
+import stacks.aulas.estruturas.Pilha;
 
 public class Aula13 {
     public static void main(String[] args){

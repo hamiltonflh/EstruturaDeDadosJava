@@ -1,7 +1,7 @@
 package stacks.aulas.exer;
 
 
-import stacks.aulas.Pilha;
+import stacks.aulas.estruturas.Pilha;
 
 import java.util.Random;
 

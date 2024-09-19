@@ -67,6 +67,29 @@ public class EstruturaEstatica<T> {
         return this.tamanho;
     }
 
+    public T obtem(int posicao){
+        if (!(posicao >= 0 && posicao < tamanho)){
+            throw new IllegalArgumentException("Posição inválida");
+        }
+        if(!(this.elementos[posicao] == null)){
+            return this.elementos[posicao];
+        }
+        return null;
+    }
+
+    public int busca(T elemento){
+        for (int i=0; i<this.tamanho(); i++){
+            if (this.elementos[i].equals(elemento)){
+                return i;
+            }
+        }
+        return -1;
+    }
+
+    public boolean contem(T elemento){
+        return busca(elemento) > -1;
+    }
+
     @Override
     public String toString() {
 
