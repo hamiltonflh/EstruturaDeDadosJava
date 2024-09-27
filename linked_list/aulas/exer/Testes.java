@@ -14,5 +14,14 @@ public class Testes {
 
         System.out.println(lista.toString());
 
+        System.out.println(lista.buscaElemento(2));
+        lista.removeInicio();
+        System.out.println(lista);
+        lista.adiciona(25,4);
+        System.out.println(lista);
+        lista.removeFinal();
+        System.out.println(lista);
+        System.out.println(lista.remove(2));
+
     }
 }
